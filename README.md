@@ -124,6 +124,12 @@ Skills for working with complex file formats:
 | **[web-asset-generator](https://github.com/alonw0/web-asset-generator)** | Generates web assets like favicons, app icons, and social media images |
 | **[loki-mode](https://github.com/asklokesh/claudeskill-loki-mode)** | Multi-agent autonomous startup system - orchestrates 37 AI agents across 6 swarms to build, deploy, and operate a complete startup from PRD to revenue |
 | **[Trail of Bits Security Skills](https://github.com/trailofbits/skills)** | Security skills for static analysis with CodeQL/Semgrep, variant analysis, code auditing, and vulnerability detection |
+| **[postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres)** | Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security |
+| **[imagen](https://github.com/sanjay3290/ai-skills/tree/main/skills/imagen)** | Generate images using Google Gemini's image generation API for UI mockups, icons, and visual assets |
+| **[deep-research](https://github.com/sanjay3290/ai-skills/tree/main/skills/deep-research)** | Execute autonomous multi-step research using Gemini Deep Research Agent for market analysis and literature reviews |
+| **[outline](https://github.com/sanjay3290/ai-skills/tree/main/skills/outline)** | Search, read, create, and manage documents in Outline wiki instances (cloud or self-hosted) |
+| **[jules](https://github.com/sanjay3290/ai-skills/tree/main/skills/jules)** | Delegate coding tasks to Google Jules AI agent for async bug fixes, documentation, tests, and features on GitHub repos |
+| **[google-workspace-skills](https://github.com/sanjay3290/ai-skills/tree/main/skills)** | Suite of Google Workspace integrations: Gmail, Calendar, Chat, Docs, Sheets, Slides, and Drive with cross-platform OAuth |
 
 _More community skills coming soon! Submit a PR to add your skill._
 
