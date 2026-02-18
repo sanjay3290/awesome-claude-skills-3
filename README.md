@@ -124,6 +124,7 @@ Skills for working with complex file formats:
 | **[web-asset-generator](https://github.com/alonw0/web-asset-generator)** | Generates web assets like favicons, app icons, and social media images |
 | **[loki-mode](https://github.com/asklokesh/claudeskill-loki-mode)** | Multi-agent autonomous startup system - orchestrates 37 AI agents across 6 swarms to build, deploy, and operate a complete startup from PRD to revenue |
 | **[Trail of Bits Security Skills](https://github.com/trailofbits/skills)** | Security skills for static analysis with CodeQL/Semgrep, variant analysis, code auditing, and vulnerability detection |
+| **[azure-devops](https://github.com/sanjay3290/ai-skills/tree/main/skills/azure-devops)** | Full Azure DevOps integration — projects, work items, repos, PRs, pipelines, wikis, test plans, security alerts, variable groups, environments/approvals, branch policies, attachments. 99 tools, 13 domains, OAuth + PAT auth via REST API v7.1 |
 
 _More community skills coming soon! Submit a PR to add your skill._
 
